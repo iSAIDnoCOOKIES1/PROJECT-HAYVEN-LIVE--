@@ -13,7 +13,7 @@
     <visible>true</visible>
     <fullScreen>false</fullScreen>
     <aspectRatio>portrait</aspectRatio>
-    <renderMode>direct</renderMode>
+    <renderMode>auto</renderMode>
     <maximizable>true</maximizable>
     <minimizable>true</minimizable>
     <resizable>false</resizable>
